@@ -1,0 +1,1 @@
+{"data":{"produtos":[{"bandeira":"Amex","codigo":"101","codigo_cartao_processador":"API","nome_produto":"MOCK TESTE","comp_id":123456,"dia_vencimento":25,"cfi":false,"conta_faturamento":null,"flag_gerencial":null,"debito_automatico":false,"tipo_conta_faturamento":"F","tipo_produto":"A","lstCartaoPortador":null}]}}
